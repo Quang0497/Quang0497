@@ -10,7 +10,7 @@ I enjoy building things, experimenting with models, working with data, and learn
 
 
 <b> Currently working on </b>
-
+<br>
 I'm a member of DILab at UTEHY, working on AI and Computer Vision projects, mainly focusing on deep learning models and video reasoning.
 
 
