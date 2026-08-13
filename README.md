@@ -15,7 +15,7 @@ I'm a member of DILab at UTEHY, working on AI and Computer Vision projects, main
 
 
 <b> Tech stack </b>
-
+<br>
 Python
 <br>
 C#
