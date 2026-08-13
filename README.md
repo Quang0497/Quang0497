@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<b> I'm Quang </b>, a student at University of Technology and Education at Hung Yen (UTEHY).
+<b> I'm Quang </b>, a student at Hung Yen University of Technology and Education (UTEHY)
 
 
 I'm currently learning and exploring Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
